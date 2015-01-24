@@ -15,3 +15,19 @@ The following software is installed:
 
 ### prerequisites
 A version of *java* needs to be pre-installed.
+
+### what you must do on the client
+- install minecraft *1.7.10* on your client machine
+- start minecraft, enter the world and quit
+- download the *minecraft forge* installer *10.13.2.1230* from [here](http://files.minecraftforge.net)
+- run the installer and install forge in your usual minecraft folder
+- it will add the forge version to your possible versions
+- start minecraft, make a new profile
+- open the profile editor and select the forge version a the version to run
+- start it up, enter the world and quit
+- look in your profile dir, there should be a *mods* folder now
+- download ComputerCraft from [here](http://www.computercraft.info)
+- drop the downloaded jar into the *mods* folder
+- start minecraft, add a new server setting the host and port to where your server is running
+
+That should do it!
