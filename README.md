@@ -17,7 +17,7 @@ The following software is installed:
 A version of *java* needs to be pre-installed.
 
 ### what you must do on the client
-- install minecraft *1.7.10* on your client machine
+- install minecraft **1.7.10** on your client machine
 - start minecraft, enter the world and quit
 - download the *minecraft forge* installer *10.13.2.1230* from [here](http://files.minecraftforge.net)
 - run the installer and install forge in your usual minecraft folder
