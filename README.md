@@ -9,9 +9,9 @@ This bash script will install a ComputerCraft server on a linux box. You only ne
 
 ### what it installs
 The following software is installed:
-- [https://mcversions.net](minecraft) *1.7.10*
-- [http://files.minecraftforge.net](forge) *10.13.2.1230*
-- [http://www.computercraft.info](ComputerCraft) *1.65*
+- [minecraft](https://mcversions.net) *1.7.10*
+- [forge](http://files.minecraftforge.net) *10.13.2.1230*
+- [ComputerCraft](http://www.computercraft.info) *1.65*
 
 ### prerequisites
 A version of *java* needs to be pre-installed.
